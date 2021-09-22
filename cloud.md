@@ -33,6 +33,7 @@ This is only the start of the applications of Azure. Since Azure is a full-servi
 
 ### Artificial intelligence
 
+- [Build an AI web app by using Python and Flask](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app?WT.mc_id=academic-0000-cxa)
 - [Get started with AI on Azure](https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals?WT.mc_id=academic-0000-cxa)
 - [Analyze images with the Computer Vision service](https://docs.microsoft.com/learn/modules/analyze-images-computer-vision?WT.mc_id=academic-0000-cxa)
 - [Classify images with the Custom Vision service](https://docs.microsoft.com/learn/modules/classify-images-custom-vision?WT.mc_id=academic-0000-cxa)
